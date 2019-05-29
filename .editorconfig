@@ -14,3 +14,5 @@ trim_trailing_whitespace = true
 # 於 Markdown 中行尾雙空白字元為換行語法
 trim_trailing_whitespace = false
 
+[Vagrantfile]
+indent_size = 2
